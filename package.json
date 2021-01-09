@@ -1,0 +1,19 @@
+{
+  "name": "wete",
+  "version": "1.0.0",
+  "description": "test\r <<<<<<< HEAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dh201827/WETE.git"
+  },
+  "author": "Judith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dh201827/WETE/issues"
+  },
+  "homepage": "https://github.com/dh201827/WETE#readme"
+}
